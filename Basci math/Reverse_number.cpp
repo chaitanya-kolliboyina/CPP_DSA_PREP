@@ -13,6 +13,6 @@ int reverse(int n){
 int main(){
     int x;
     cin>>x;
-    cout<<reverse(x);
+    cout<<reverse(x);                    //prints reverse of number 
     return 0;
 }
